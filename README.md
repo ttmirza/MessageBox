@@ -1,5 +1,5 @@
 # Message Box
-### A REST API that allows registered users to send & receive both individual and group messages.
+### A REST API that allows registered users to send & receive individual and group messages.
 ## Build
 Two ways to run application:
 1. `make go` at root level of application directory --> API is listening and serving on port 3001 (building using Go, recommended)
